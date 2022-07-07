@@ -7,5 +7,5 @@
 
 import Foundation
 
-let algorithm = Level2_60057()
+let algorithm = Level2_72410()
 algorithm.start()
