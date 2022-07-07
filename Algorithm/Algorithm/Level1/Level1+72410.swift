@@ -8,7 +8,7 @@
 import Foundation
 
 //https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=swift
-class Level2_72410 {
+class Level1_72410 {
     func start() {
         print(solution("abcdefghijklmn.p"))
     }
